@@ -1,0 +1,45 @@
+---
+title: "STAT 321"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 321-001
+
+22 November 2019
+
+## Problem 1
+```{r Problem 1}
+rm(list=ls())
+library(devtools)
+library(remotes)
+library(roxygen2)
+az <- function(n){
+  sample(c("A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"),n,replace=TRUE)
+}
+az(1)
+```
+
+## Problem 2
+
+```{r Problem 2}
+az(1000000)
+system.time(az(1000000))
+
+```
+
+## Problem 3
+
+```{r Problem 3}
+library(az)
+az(1)
+```
+
+## Problem 4
+
+```{r Problem 4}
+install_github("LoyolaRamblers/az")
+
+```

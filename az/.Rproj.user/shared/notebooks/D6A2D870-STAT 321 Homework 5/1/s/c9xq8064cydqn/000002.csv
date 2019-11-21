@@ -1,0 +1,11 @@
+"0","install_github(""LoyolaRamblers/az"")
+"
+"2","Error: Failed to install 'az' from GitHub:
+  HTTP error 409.
+  Git Repository is empty.
+
+  Rate limit remaining: 59/60
+  Rate limit reset at: 2019-11-21 07:55:29 UTC
+
+  
+"

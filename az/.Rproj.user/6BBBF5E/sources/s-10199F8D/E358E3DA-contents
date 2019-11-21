@@ -1,0 +1,10 @@
+Package: az
+Type: Package
+Title: Alphabetical Sampling
+Version: 0.1.0
+Author: Charles Hwang
+Maintainer: Charles Hwang <chwang202020@gmail.com>
+Description: This function will output n random letters of the alphabet with replacement.
+License: Don't know
+Encoding: UTF-8
+LazyData: true
