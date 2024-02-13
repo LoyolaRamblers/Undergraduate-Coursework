@@ -1,0 +1,64 @@
+---
+title: "STAT 351 Homework 2"
+author: "Charles Hwang"
+date: "1/28/2020"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 351-001
+
+7 February 2019
+
+## Problem 1
+
+```{r Problem 1}
+rm(list=ls())
+library(perm)
+group1 <- c(2.9736,0.9448,1.6394,0.0389,1.2958)
+group2 <- c(0.7681,0.8027,0.2156,0.0740,1.5076)
+group3 <- c(4.8249,2.2516,1.5609,2.0452,1.0959)
+data <- data.frame(obs=c(group1,group2,group3),group=factor(c(rep(1,length(group1)),rep(2,length(group2)),rep(3,length(group3)))))
+anova(lm(obs~group,data=data))                                                         # Problem 1a
+permKS(data$obs~data$group,exact=TRUE,control=permControl(nmc=90000,p.conf.level=.95)) # Problem 1b
+kruskal.test(list(group1,group2,group3))                                               # Problem 1c
+c(var(group1),var(group2),var(group3))                                                 # Problem 1d
+par(mfrow=c(1,3))
+hist(group1)
+hist(group2)
+hist(group3)
+cat("All three tests fail to reject the null hypothesis at α = 0.05. The p-values for the ANOVA F-test, permutation F-test, and Kruskal-Wallis test are ",anova(lm(obs~group,data=data))[1,5],", ",permKS(data$obs~data$group,exact=TRUE,control=permControl(nmc=90000,p.conf.level=.95,tsmethod="abs"))$p.value,", and ",kruskal.test(list(group1,group2,group3))$p.value,", respectively. These p-values are relatively different from each other. For the ANOVA and permutation tests, the assumption of homoscedasticity appears to be violated. However, for the Kruskal-Wallis test, the assumption of identically shaped and scaled distributions between groups appears to be fairly satisfied.",sep="")
+```
+
+## Problem 2
+
+```{r Problem 2}
+rm(list=ls())
+data <- read.csv(file="/Users/newuser/Desktop/NP_HW2.csv",header=TRUE)
+kruskal.test(list(data$score[data$group==1],data$score[data$group==2],data$score[data$group==3],data$score[data$group==4],data$score[data$group==5]))
+cat("We reject H0 at α = 0.05. There is sufficient evidence (p = ",kruskal.test(list(data$score[data$group==1],data$score[data$group==2],data$score[data$group==3],data$score[data$group==4],data$score[data$group==5]))$p.value,") that at least one of the medians of the groups is different from the others using a Kruskal-Wallis test.",sep="")
+k = length(unique(data$group))
+k*(k-1)/2
+α = .05
+α. = α/(k*(k-1)/2)
+pairwise.wilcox.test(data$score,data$group,p.adjust.method="bonferroni")
+α.
+cat("The differences between groups 1 and 3 (p = 0.0021), groups 3 and 4 (p = 0.0049), and groups 4 and 5 (p = 0.0049) are significant at α. = α/(k*(k-1)/2) = ",α.,", where k is the number of groups (",k,").",sep="")
+```
+
+## Problem 3
+
+```{r Problem 3}
+rm(list=ls())
+site1 <- c(46,28,46,37,32,41,42,45,38,44)
+site2 <- c(42,60,32,42,45,58,27,51,42,52)
+site3 <- c(38,33,26,25,28,28,26,27,27,27)
+site4 <- c(31,30,27,29,30,25,25,24,27,30)
+# H0: m_1 = m_2 = m_3 = m_4
+# HA: At least one m_i is different
+α = .05
+kruskal.test(list(site1,site2,site3,site4))
+cat("We reject H0 at α = ",α,". There is sufficient evidence (p = ",kruskal.test(list(site1,site2,site3,site4))$p.value,") that at least one of the medians of the groups is different from the others using a Kruskal-Wallis test.",sep="")
+```

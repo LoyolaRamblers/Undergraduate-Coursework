@@ -1,0 +1,119 @@
+---
+title: "STAT 351 Project"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 351-001
+
+2 May 2020
+
+$(1)$ **Introduction**: The goal of this project is to build a model to predict which passengers survived the sinking of the RMS *Titanic*. I am doing this as part of the [*Titanic* competition](kaggle.com/c/titanic) on Kaggle. Because this competition is a "Getting Started" competition, there are no prizes for certain positions on the public leaderboard, making it a good competition for students (like myself) to learn about Kaggle and machine learning.
+
+$(2)$ **Data**: The outcome variable is binary, with a $1$ indicating a survival and a $0$ indicating a death. There are many different variables in the data set to describe 1,309 of the 2,224 passengers onboard the maiden voyage of the RMS *Titanic*. The full list included ticket class, name, sex, age, numbers of siblings/spouses and parents/children of passenger onboard, ticket and cabin numbers, fare, and port of embarkation. There are designated training and test data sets containing $891$ and $418$ observations, respectively. There were $866$ missing values in the training set and I was able to visualize which variables these missing values belonged to with two histograms and plots using the aggr() function. These can be found in the $(6.1)$ **Data Cleaning and Imputation** subsection of this report.
+
+$(3)$ **Methods**: I read the data into RStudio and analyzed each variable. I built a classification and regression tree (CART) using the rpart() function from the "rpart" package and obtained its predicted values and cross-validation error. I pruned the tree with the prune() function but the pruned tree turned out to be too basic and potentially overlooking important splits. Finally, the predictions were copied to a newly-created data set "tpdf" and written to a CSV file to be uploaded to the Kaggle competition webpage. All of the code for this project can be found in the $(6)$ **Appendix** of this report.
+
+$(4)$ **Results**: The tree I fit had splits on several variables. The results can be found in the $(6.2)$ Tree Models subsection of this report. After uploading the CSV file to the Kaggle competition webpage, my calculated Kaggle score based part of the test data was $0.78468$ ($\frac{328}{418}$). The Kaggle score is a fraction between $0$ and $1$ calculated by dividing the number of correctly-predicted observations by the total number of observations in the test set ($418$). Therefore, a higher score indicates a model that is more well-fit to the data provided. On the same lines, there are only $419$ possible scores ($\frac{0}{418},\frac{1}{418},...,\frac{418}{418}$).
+
+$(5)$ **Conclusions/Future Work**: I conclude that my Kaggle score was $0.78468$. It is impractical to determine my true overall ranking because there are only $419$ possible scores and my score is tied with at least 24 other scores above mine, and the Kaggle website automatically listed me at the bottom of this score. Because the leaderboard used a two-month rolling window, the total number of competitors is also not known. However, the Kaggle competition had 20,012 competitors in the past two months at the time of the creation of this report, many of which make numerous submissions over the course of the competition to improve upon their score. Additionally, because the full data set including the values of the response variable for each observation is publicly available online per the [rules of the competition](kaggle.com/c/titanic/rules), many users may have simply searched online for this data set and uploaded it so that their username would be near the top of the leaderboard, even if it is only for two months and there are no further prizes or benefits for doing so. As such, at least the first fifty positions on the [public leaderboard](kaggle.com/c/titanic/leaderboard) have a perfect score of $1.00000$ and several of them have only one competition entry (presumably users who uploaded the data set online instead of obtaining a perfect score by chance). This leads to rank deflation, causing users' scores to be ranked lower than they would have if all users had uploaded scores based on models that were entirely the result of their own work. In light of this information, this score is good.
+
+There are many different things I would do in a similar project in the future if I had more time, including:
+
+* Fitting a larger tree
+* Fitting a tree or trees with functions from different packages or a different set.seed() value
+    + I experimented with fitting a series of trees using the tree() function from the "tree" package; however, the resulting Kaggle score of the model was the same as the one that resulted from the model in this report.
+* Using different tree-based methods like [bagging](en.wikipedia.org/wiki/Bagging)
+* Fitting a [random forest](en.wikipedia.org/wiki/Random_forest)
+    + I decided not to grow a random forest due to time constraints in dealing with missing data.
+* Experimenting with other types of prediction models like gradient boosted models (GBMs) to see how the data would be handled
+* After some time, searching online for the dataset with the true values of the response variable to see which observations I predicted incorrectly and possibly why (if they were outliers, fell on the wrong side of a split in the CART model, etc.)
+
+## (6) Appendix
+### (6.1) Data Cleaning and Imputation
+
+```{r Data Cleaning and Imputation, message=FALSE, warning=FALSE}
+rm(list=ls())
+sample_submission <- read.csv(file="/Users/newuser/Desktop/Notes/STAT 351/titanic/gender_submission.csv",header=TRUE)
+test <- read.csv(file="/Users/newuser/Desktop/Notes/STAT 351/titanic/test.csv",header=TRUE)
+train <- read.csv(file="/Users/newuser/Desktop/Notes/STAT 351/titanic/train.csv",header=TRUE)
+library(mice)
+library(rpart)
+library(randomForest)
+library(tidyr)
+library(tree)
+library(VIM)
+train$Survived <- as.factor(train$Survived)
+train[train==""] <- NA # Changing blank ("") values to "NA"
+train$Name <- as.character(train$Name)
+train$Ticket <- as.character(train$Ticket)
+train$Cabin <- as.character(train$Cabin)
+test$Name <- as.character(test$Name)
+test$Ticket <- as.character(test$Ticket)
+test$Cabin <- as.character(test$Cabin)
+sum(is.na(train[,c("Survived")])) # There are no missing values in the predictor/response variable.
+sum(is.na(train)) # However, there are 866 missing values in the rest of the data. Let's visualize that.
+aggr(train,sortVars=TRUE,labels=names(train),ylab=c("Histogram of Missing Data","Pattern"))
+cat("The table tells us that '",aggr(train,plot=FALSE,bars=FALSE)$missing$Variable[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][1],"' and '",aggr(train,plot=FALSE,bars=FALSE)$missing$Variable[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][2],"' are the variables with the large majority of missing values, with ",aggr(train,plot=FALSE,bars=FALSE)$missing$Count[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][1]/nrow(train)*100," and ",aggr(train,plot=FALSE,bars=FALSE)$missing$Count[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][2]/nrow(train)*100," percent missing in each, respectively. The '",aggr(train,plot=FALSE,bars=FALSE)$missing$Variable[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][3],"' variable is also missing ",sum(is.na(train$Embarked))," values which is only ",aggr(train,plot=FALSE,bars=FALSE)$missing$Count[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][3]/nrow(train)*100," percent of the observations. The histogram provides a visual representation sorted by proportion of missing values from greatest to least. Blue squares indicate non-missing (recorded) values and red squares indicate missing values. It appears from the chart at least the plurality of observations are missing the '",aggr(train,plot=FALSE,bars=FALSE)$missing$Variable[order(aggr(train,plot=FALSE,bars=FALSE)$missing$Count,decreasing=TRUE)][1],"' variable, followed by observations with no missing values. We can extract the data from the plot and see that ",sort(aggr(train,plot=FALSE,bars=FALSE)$percent,decreasing=TRUE)[1]," percent of observations do not contain any missing values.",sep="")
+aggr(train,labels=names(train),ylab=c("Histogram of Missing Data","Pattern"),gap=2.5) # The same histogram and plot with the original data set (with variables in their original positions)
+cart <- mice(train[,-c(4,9)],method="cart",seed=2025) # Removed "Name" and "Ticket" variables so that the runtime would be practical
+summary(cart)
+sapply(complete(cart),function(x) sum(is.na(x))) # Checking that missing values were imputed
+levels(train$Cabin)
+train$Cabin <- factor(train$Cabin) # Removing empty levels of factor variables
+levels(train$Cabin) # Check
+levels(train$Embarked)
+train$Embarked <- factor(train$Embarked)
+levels(train$Embarked) # Check
+rf <- mice(train[,-c(4,9)],method="rf",seed=2025) # Data imputation with random forest method
+summary(rf)
+sapply(complete(rf),function(x) sum(is.na(x))) # Checking that missing values were imputed
+```
+
+### (6.2) Tree Models
+
+```{r Tree Models}
+set.seed(2025)
+tree <- rpart(Survived~.,data=train[,-c(4,9,11)])
+printcp(tree)
+plotcp(tree)
+par(mfrow=c(1,2))
+plot(tree,uniform=TRUE,main="Classification Tree")
+text(tree,use.n=TRUE,all=TRUE,cex=.7)
+summary(tree)
+ptree <- prune(tree,cp=tree$cptable[which.min(tree$cptable[,"xerror"]),"CP"])
+plot(ptree,uniform=TRUE,main="Pruned Classification Tree") # The pruned tree actually appears too simple and may be leaving out some important splits.
+text(ptree,use.n=TRUE,all=TRUE,cex=.7)
+cat("Cross validation error:",min(tree$cptable[,"xerror"]))
+par(mfrow=c(1,1))
+T <- tree(Survived~.,data=train[,-c(4,9,11)]) # Fitting different tree
+T
+plot(T) # This tree ended up yielding the same score as the other two.
+text(T)
+```
+
+### (6.3) Predictions
+
+```{r Predictions}
+treepred <- predict(tree,test)
+table(treepred)
+treepred[treepred>=.5] <- 1 # Assigning values to outcome variable
+treepred[treepred<.5] <- 0
+table(treepred[,2])
+treepred[,2]
+tpdf <- as.data.frame(rep(0,nrow(treepred))) # Exporting predictions to CSV file for Kaggle submission
+tpdf$PassengerId <- test$PassengerId
+tpdf$Survived <- treepred[,2]
+tpdf$`rep(0, nrow(treepred))` <- NULL
+write.csv(as.data.frame(tpdf),"tpdf Submission.csv",row.names=FALSE)
+```
+
+### (6.4) Score
+
+```{r Score}
+# Kaggle score: 0.78468 (328/418, 71st percentile)
+```
+
+This score, as previously discussed in $(5)$ **Conclusions/Future Work**, is relatively good, given the resources that other competitors have and the shorter time period I had to complete this project.
