@@ -7,7 +7,7 @@
 - [STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics) (Predictive Analytics)
 #### Spring 2019
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming)
-- [STAT 305](https://www.luc.edu/math/academics/courses/stat305)[^1] (Advanced Probability)
+- [STAT 305](https://www.luc.edu/math/academics/courses/stat305) (Advanced Probability)[^1]
 #### Fall 2016 – Fall 2018[^1]
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Number Theory)
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
