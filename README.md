@@ -1,4 +1,4 @@
-### Undergraduate Coursework
+### Undergraduate [Coursework](https://www.luc.edu/math/bsstat.shtml)
 #### Spring 2020
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
 #### Fall 2019
