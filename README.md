@@ -1,4 +1,4 @@
-### Loyola Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
+#### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
 #### Spring 2020
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
   - [Project](STAT%20351%20-%20Nonparametric%20Statistical%20Methods/Project/Project.pdf) (Kaggle Competition: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
