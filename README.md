@@ -2,6 +2,8 @@
 #### Spring 2020
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
   - [Project](STAT%20351%20-%20Nonparametric%20Statistical%20Methods/Project/Project.pdf) (Kaggle Competition: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
+- [UNIV 224](https://www.luc.edu/career/univ224) (Career & Life Planning)
+  - [Paper](UNIV%20224%20-%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf)
 #### Fall 2019
 - [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
   - [Project](FNAR%20199%20-%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
