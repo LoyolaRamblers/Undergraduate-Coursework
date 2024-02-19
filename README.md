@@ -25,11 +25,11 @@
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
 - [STAT 304](https://www.luc.edu/math/academics/courses/stat304) (Probability & Statistics)
 - [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)
-#### 2014 – 2016
+#### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
-  - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) ([MATH 161](https://www.luc.edu/math/academics/courses/math161))
-  - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) ([MATH 162](https://www.luc.edu/math/academics/courses/math162))
-  - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) ([ECON](https://catalog.luc.edu/course-descriptions/econ) 202)
-  - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) ([STAT 103](https://www.luc.edu/math/academics/courses/stat103))
-  - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) ([HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212)
+  - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
+  - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → [MATH 162](https://www.luc.edu/math/academics/courses/math162)
+  - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → [ECON](https://catalog.luc.edu/course-descriptions/econ) 202
+  - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → [STAT 103](https://www.luc.edu/math/academics/courses/stat103)
+  - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done on paper.
