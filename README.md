@@ -9,7 +9,7 @@
   - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) (Statistical Design & Analysis of Experiments)
   - [Paper](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Paper%20(Ionic%20Interactions%20of%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers).pdf) (Ionic Interactions of Quaternary Ammonium Salts with Nylon 66 Fibers)
-  - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf) (Popping Popcorn)
+  - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
 - [STAT 321](https://www.luc.edu/math/academics/courses/stat321) (Modeling & Simulation)
   - [Project](STAT%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
 - [STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics) (Predictive Analytics)
