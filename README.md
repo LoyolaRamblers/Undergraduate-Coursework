@@ -31,5 +31,6 @@
   - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → [MATH 162](https://www.luc.edu/math/academics/courses/math162)
   - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → [ECON](https://catalog.luc.edu/course-descriptions/econ) 202
   - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → [STAT 103](https://www.luc.edu/math/academics/courses/stat103)
+  - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
   - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done on paper.
