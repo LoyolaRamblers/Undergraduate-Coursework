@@ -1,0 +1,91 @@
+---
+title: "Homework 4"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 388-001
+
+26 October 2019
+
+## Problem 3b
+
+### Summary
+
+```{r Summary,warning=FALSE,message=FALSE}
+rm(list=ls())
+data <- read.csv(file="/Users/newuser/Desktop/PredictiveHW4Dataset_2019.csv",header=TRUE)
+library(corrplot)
+library(mgcv)
+summary(data[1:900,])
+plot(data[1:900,]$y)
+summary(data[901:1000,])
+round(cor(data[1:900,1:25]),2)
+corrplot(cor(data[1:900,1:25]),type="upper")
+par(mfrow=c(3,3))
+hist(data[1:900,]$x1,main="x1")
+hist(data[1:900,]$x2,main="x2",ylab="")
+hist(data[1:900,]$x3,main="x3",ylab="")
+hist(data[1:900,]$x4,main="x4")
+hist(data[1:900,]$x5,main="x5",ylab="")
+hist(data[1:900,]$x6,main="x6",ylab="")
+hist(data[1:900,]$x7,main="x7")
+hist(data[1:900,]$x8,main="x8",ylab="")
+hist(data[1:900,]$x9,main="x9",ylab="")
+par(mfrow=c(3,3))
+hist(data[1:900,]$x10,main="x10")
+hist(data[1:900,]$x11,main="x11",ylab="")
+hist(data[1:900,]$x12,main="x12",ylab="")
+hist(data[1:900,]$x13,main="x13")
+hist(data[1:900,]$x14,main="x14",ylab="")
+hist(data[1:900,]$x15,main="x15",ylab="")
+hist(data[1:900,]$x16,main="x16")
+hist(data[1:900,]$x17,main="x17",ylab="")
+hist(data[1:900,]$x18,main="x18",ylab="")
+par(mfrow=c(3,3))
+hist(data[1:900,]$x19,main="x19")
+hist(data[1:900,]$x20,main="x20",ylab="")
+hist(data[1:900,]$x21,main="x21",ylab="")
+hist(data[1:900,]$x22,main="x22")
+hist(data[1:900,]$x23,main="x23",ylab="")
+hist(data[1:900,]$x24,main="x24",ylab="")
+hist(data[1:900,]$x25,main="x25")
+hist(data[1:900,]$y,main="y",ylab="")
+hist(data[1:900,]$id,main="id",ylab="")
+summary(gam(y~x1+x2+x3+x4+x5+x6+x7+x8+x9+x10+x11+x12+x13+x14+x15+x16+x17+x18+x19+x20+x21+x22+x23+x24+x25,data=data[1:900,]))
+```
+
+### Execution
+
+```{r Execution,warning=FALSE,message=FALSE,echo=FALSE}
+library(ggplot2)
+library(MASS)
+library(splines)
+plot(gam(y~s(x1)+s(x2)+s(x3)+s(x4)+s(x5)+s(x6)+s(x7)+s(x8)+s(x9)+s(x10)+s(x11)+s(x12)+s(x13)+s(x14)+s(x15)+s(x16)+s(x17)+s(x18)+s(x19)+s(x20)+s(x21)+s(x22)+s(x23)+s(x24)+s(x25),data=data[1:900,],residuals=TRUE))
+step(lm(y~.,data[1:900,1:26]),trace=FALSE)
+summary(lm(y~x9+x11+x24,data=data[1:900,1:26]))
+par(mfrow=c(2,2))
+plot(lm(y~x9+x11+x24,data=data[1:900,1:26]))
+par(mfrow=c(1,1))
+plot(data[1:900,]$y~fitted(lm(y~x9+x11+x24,data[1:900,1:26])))
+abline(0,1)
+hist(residuals(lm(y~x9+x11+x24,data[1:900,1:26])))
+x9 <- data[901:1000,9]
+x11 <- data[901:1000,11]
+x24 <- data[901:1000,24]
+line <- 98.6098-4.1152*x9+8.7450*x11+0.5691*x24
+final <- c(data[901:1000,]$id,line)
+write.csv(final,file="/Users/newuser/Desktop/STAT_388_Homework_4.csv")
+
+plot(gam(y~s(x9),data=data[1:900,]))
+plot(gam(y~s(x11),data=data[1:900,]))
+plot(gam(y~s(x24),data=data[1:900,]))
+plot(gam(y~s(x9)+s(x11)+s(x24),data=data[1:900,]))
+
+plot(gam(y~s(c(x9+x11)),data=data[1:900,]))
+plot(gam(y~s(c(x9+x11+x24)),data=data[1:900,]),residuals=TRUE)
+plot(gam(y~s(x9+x11+x24),data=data[1:900,]))
+summary(gam(y~s(x9)+s(x11)+s(x24),data=data[1:900,]))
+```

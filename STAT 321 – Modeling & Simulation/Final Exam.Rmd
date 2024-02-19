@@ -1,0 +1,175 @@
+---
+title: "STAT 321 Final"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 321-001
+
+10 December 2019
+
+## Problem 1
+
+```{r Problem 1}
+rm(list=ls())
+library(stats)
+set.seed(1012)
+x <- runif(10000,0,10)   # Checking function on Desmos, y is between 0 and 1000
+y <- runif(10000,0,1000) # Choosing n = Area = 10*1000 = 10000
+f <- 8.75166*abs(x^2*cos(x))
+fx <- function(x) 8.75166*abs(x^2*cos(x))
+plot(x[(y>f)],y[(y>f)])
+points(x[(y<=f)],y[(y<=f)],col="red")
+curve(fx,0,10,n=10000,col="cyan",add=TRUE)
+length(y[(y<=f)])
+integrate(function(x) 8.75166*abs(x^2*cos(x)),0,10)$value
+cat("MarginOfError:",integrate(function(x) 8.75166*abs(x^2*cos(x)),0,10)$value-length(y[(y<=f)]),"\nPercent Error:",100*(integrate(function(x) 8.75166*abs(x^2*cos(x)),0,10)$value-length(y[(y<=f)]))/integrate(function(x) 8.75166*abs(x^2*cos(x)),0,10)$value)
+```
+
+## Problem 2
+### Problem 2a
+
+```{r Problem 2a,eval=FALSE}
+rm(list=ls())
+set.seed(1012)
+f <- function(x,a=2,b=1,p=2) {
+  b*(x^(-1/p)-1)^(-1/a) # Inverse: b*(x^(-1/p)-1)^(-1/a)
+  }
+f(runif(1000)) # Output suppressed
+```
+
+### Problem 2b
+
+```{r Problem 2b}
+set.seed(1012)
+x <- runif(10000,0,10)
+y <- runif(10000,0,1)
+a <- 2
+b <- 1
+p <- 2
+f <- (1+(x/b)^-a)^-p
+fx <- function(x,a=2,b=1,p=2) {
+  (1+(x/b)^-a)^-p
+  }
+plot(x[(y>f)],y[(y>f)])
+points(x[(y<=f)],y[(y<=f)],col="red")
+curve(fx,0,10,n=10000,col="cyan",add=TRUE)
+ε <- .05 # Choosing arbitrary ε
+mean(y[(abs(y-f) <= ε)])
+mean(fx(x))
+cat("    Mean - MarginOfError:",mean(fx(x))-mean(y[(abs(y-f) <= ε)]),"\n    Mean - Percent Error:",100*(mean(fx(x))-mean(y[(abs(y-f) <= ε)]))/mean(fx(x)),"\n")
+δ <- .01 # Choosing arbitrary δ
+max(y[(abs(x-5) <= δ)])
+median(fx(x))
+cat("  Median - MarginOfError:",median(fx(x))-max(y[(abs(x-5) <= δ)]),"\n  Median - Percent Error:",100*(median(fx(x))-max(y[(abs(x-5) <= δ)]))/median(fx(x)),"\n")
+var(y)
+var(fx(x))
+cat("Variance - MarginOfError:",var(y)-var(fx(x)),"\nVariance - Percent Error:",100*(var(y)-var(fx(x)))/var(y))
+```
+
+## Problem 3
+
+```{r Problem 3}
+rm(list=ls())
+set.seed(1012)
+x <- runif(4000,0,1)
+y <- runif(4000,0,2.5)
+a <- 5
+b <- 3
+f <- x^(a-1)*(1-x)^(b-1)/(beta(a,b))
+fx <- function(x,a=5,b=3) {
+  x^(a-1)*(1-x)^(b-1)/(beta(a,b))
+  }
+plot(x[(y<=f)],y[(y<=f)],xlim=c(-.2,1.2),ylim=c(0,3))
+curve(fx,0,1,n=10000,col="red",add=TRUE)
+lines(c(0,0,1,1),c(0,2.5,2.5,0),lty=2)
+r <- function(fx,a,b,k) { # Same data displayed as a histogram
+  while (TRUE) {
+    x <- runif(1,a,b)
+    y <- runif(1,0,k)
+    if (y < fx(x)) return(x)
+  }
+}
+fx <- function(x,a=5,b=3) {
+  x^(a-1)*(1-x)^(b-1)/(beta(a,b))
+  }
+n <- 4000
+x <- rep(0,n)
+for(i in 1:n) {
+  x[i] <- r(fx,0,1,2.5)
+}
+hist(x,breaks=seq(0,1,by=.05),freq=FALSE,xlim=c(-.2,1.2),ylim=c(0,3),main="")
+curve(fx,0,1,n=1000,col="red",add=TRUE)
+```
+
+## Problem 4
+
+```{r Problem 4}
+set.seed(1012)
+a <- 3
+b <- 5
+r <- function(m){
+  Range <- rep(0,10000)
+  for (i in 1:10000) {
+    Range[i] <- max(rbeta(m,3,5))-min(rbeta(m,3,5))
+    }
+  hist(Range)
+}
+r(5)
+r(10)
+r(25)
+```
+
+## Problem 5
+
+```{r Problem 5}
+set.seed(1012)
+m <- function(m){
+  r <- rep(0,10000)
+  for (i in 1:10000) {
+    r[i] <- max(rbeta(m,3,5))-min(rbeta(m,3,5))
+    }
+  mean(r)
+}
+m(5)
+m(10)
+m(25)
+```
+
+## Problem 6
+
+```{r Problem 6}
+set.seed(1012)
+nm <- function(ml,mu){
+  r <- matrix(c(rep(0,(mu-ml+1)*10000)),nrow=mu-ml+1,ncol=10000)
+  y <- rep(0,mu-ml+1)
+  for (m in ml:mu) {
+    for (i in 1:10000) {
+      r[m-ml+1,i] <- max(rbeta(m,3,5))-min(rbeta(m,3,5))
+      y[m-ml+1] <- mean(r[m-ml+1,])
+      }
+    }
+  plot(c(ml:mu),y,type="o",xlab="m")
+}
+nm(2,100)
+```
+
+## Problem 7
+
+```{r Problem 7}
+set.seed(1012)
+nm <- function(ml,mu){
+  r <- matrix(c(rep(0,(mu-ml+1)*10000)),nrow=mu-ml+1,ncol=10000)
+  y <- rep(0,mu-ml+1)
+  for (m in ml:mu) {
+    for (i in 1:10000) {
+      r[m-ml+1,i] <- max(rbeta(m,3,5))-min(rbeta(m,3,5))
+      y[m-ml+1] <- median(r[m-ml+1,])
+      }
+    }
+  plot(c(ml:mu),y,type="o",xlab="m")
+}
+nm(2,100)
+```

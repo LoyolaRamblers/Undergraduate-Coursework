@@ -1,0 +1,65 @@
+---
+title: "STAT 321"
+output: html_document
+---
+Charles Hwang
+
+Professor Matthews
+
+STAT 321-001
+
+22 November 2019
+
+## Problem 1
+
+```{r Problem 1}
+rm(list=ls())
+az <- function(n){
+  sample(c("A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"),n,replace=TRUE)
+}
+az(1)
+```
+
+## Problem 2
+### Part (a)
+
+```{r Problem 2a, eval=FALSE}
+library(parallel) # Results suppressed
+detectCores()
+cl <- makeCluster(detectCores()-1)
+parLapply(cl,rep(1,1000000),az)
+stopCluster(cl)
+```
+
+### Part (b)
+
+```{r Problem 2b}
+library(parallel)
+sn <- Sys.time()
+tn <- system.time(lapply(rep(1,1000000),az))
+en <- Sys.time()
+sl <- Sys.time()
+cl <- makeCluster(detectCores()-1)
+tl <- system.time(parLapply(cl,rep(1,1000000),az))
+stopCluster(cl)
+el <- Sys.time()
+c(en-sn,el-sl,en-sn-(el-sl)) # Two different estimates of computational time difference
+c(tn[3],tl[3],tn[3]-tl[3])
+```
+
+## Problem 3
+
+```{r Problem 3, message=FALSE}
+library(devtools)
+library(remotes)
+library(roxygen2)
+install_github("LoyolaRamblers/az",subdir="az",force=TRUE)
+library(az)
+```
+
+## Problem 4
+
+```{r Problem 4}
+library(utils)
+browseURL("https://github.com/LoyolaRamblers/az/tree/master/az")
+```
