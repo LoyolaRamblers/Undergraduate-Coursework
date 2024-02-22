@@ -14,7 +14,7 @@
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
   - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
 - [STAT 321](https://www.luc.edu/math/academics/courses/stat321) (Modeling & Simulation)
-  - [Project Report](COMP%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
+  - [Project Report](STAT%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
 - [STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics) (Predictive Analytics)
   - [Project Report](STAT%20338%20–%20Predictive%20Analytics/Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Project%20Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
 - [STAT 396](https://www.luc.edu/math/academics/courses/stat396) (Actuarial Seminar I)[^1]
@@ -22,7 +22,7 @@
 - [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
   - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
-  - [Homework 5](STAT%20303%20–%20SAS%20Programming/Homework%205%20Results.pdf)
+  - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
 #### Fall 2016 – Fall 2018
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
