@@ -21,19 +21,19 @@
 #### Spring 2019
 - [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
   - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
-- [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming)
+- [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
   - [Homework 5](STAT%20303%20–%20SAS%20Programming/Homework%205%20Results.pdf)
 #### Fall 2016 – Fall 2018
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
-- [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^1]
+- [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^2]
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
 - [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
   - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
-- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^1]
+- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
 #### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
   - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
@@ -42,4 +42,5 @@
   - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → [STAT 103](https://www.luc.edu/math/academics/courses/stat103)
   - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
   - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
-[^1]: No files exist for these courses because they were deleted or the nature of the subjects led to coursework being done on paper.
+[^1]: No files exist for these courses because the nature of the subjects led to coursework being done exclusively on paper.
+[^2]: No files exist for these courses because programming was done in class and none were saved.
