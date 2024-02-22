@@ -16,15 +16,20 @@
   - [Project Report](STAT%20338%20–%20Predictive%20Analytics/Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Project%20Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
 - [STAT 396](https://www.luc.edu/math/academics/courses/stat396) (Actuarial Seminar I)[^1]
 #### Spring 2019
-- [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Advanced Probability)[^1]
+- [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
+  - [Piazza Engagement](STAT%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming)
-#### Fall 2016 – Fall 2018[^1]
+#### Fall 2018
+- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
+  - [Piazza Engagement](STAT%20304%20–%20Probability%20%26%20Statistics)
+#### Spring 2018
+- [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
+  - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
+#### Fall 2016 – Fall 2017[^1]
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Number Theory)
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)
-- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
-- [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
 - [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)
 #### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
