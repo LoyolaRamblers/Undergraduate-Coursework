@@ -32,7 +32,7 @@
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
 #### Fall 2016 – Spring 2017[^1]
-- [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Number Theory)
+- [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)
 #### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
