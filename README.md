@@ -1,7 +1,10 @@
 #### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
 #### Spring 2020
+- [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
   - [Project Report](STAT%20351%20–%20Nonparametric%20Statistical%20Methods/Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Project%20Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
+- [UNIV 102](https://www.luc.edu/nsp/first-yearexperience/univ102loyolaseminar) (Financial Wellness)
+  - [Post-Assessment](UNIV%20102%20–%20Financial%20Wellness/Post-Assessment.pdf)
 - [UNIV 224](https://www.luc.edu/career/univ224) (Career & Life Planning)
   - [Paper](UNIV%20224%20–%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf) (Occupational Project: Data Science)
 #### Fall 2019
