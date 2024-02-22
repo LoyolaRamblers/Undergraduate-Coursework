@@ -8,13 +8,13 @@
 - [UNIV 224](https://www.luc.edu/career/univ224) (Career & Life Planning)
   - [Paper](UNIV%20224%20–%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf) (Occupational Project: Data Science)
 #### Fall 2019
-- [COMP/STAT 321](https://www.luc.edu/math/academics/courses/stat321) (Modeling & Simulation)
-  - [Project Report](COMP%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
 - [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
   - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) (Statistical Design & Analysis of Experiments)
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
   - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
+- [STAT 321](https://www.luc.edu/math/academics/courses/stat321) (Modeling & Simulation)
+  - [Project Report](COMP%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
 - [STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics) (Predictive Analytics)
   - [Project Report](STAT%20338%20–%20Predictive%20Analytics/Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Project%20Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
 - [STAT 396](https://www.luc.edu/math/academics/courses/stat396) (Actuarial Seminar I)[^1]
@@ -23,20 +23,17 @@
   - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming)
   - [Homework 5](STAT%20303%20–%20SAS%20Programming/Homework%205%20Results.pdf)
-#### Fall 2018
-- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
-  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
-- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^1]
-#### Spring 2018
-- [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
-  - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
-#### Fall 2017
+#### Fall 2016 – Fall 2018
+- [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
+- [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^1]
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
-#### Fall 2016 – Spring 2017[^1]
-- [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)
-- [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)
+- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
+  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
+- [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
+  - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
+- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^1]
 #### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
   - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
