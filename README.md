@@ -1,8 +1,5 @@
 #### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
-#### Spring 2020
-- [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
-  - [Project Report](STAT%20351%20–%20Nonparametric%20Statistical%20Methods/Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Project%20Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
-#### Fall 2019
+#### Fall 2019 – Spring 2020
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) (Statistical Design & Analysis of Experiments)
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
   - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
@@ -10,23 +7,25 @@
   - [Project Report](STAT%20321%20–%20Modeling%20%26%20Simulation/Project%20(Blackjack)/Project%20Report.pdf) (Blackjack)
 - [STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics) (Predictive Analytics)
   - [Project Report](STAT%20338%20–%20Predictive%20Analytics/Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Project%20Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
+- [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
+  - [Project Report](STAT%20351%20–%20Nonparametric%20Statistical%20Methods/Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Project%20Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
 - [STAT 396](https://www.luc.edu/math/academics/courses/stat396) (Actuarial Seminar I)[^1]
-#### Spring 2019
+#### Fall 2018 – Spring 2019
+- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
+  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
 - [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
   - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
   - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
-#### Fall 2016 – Fall 2018
+- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
+#### Fall 2016 – Spring 2018
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^2]
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
-- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
-  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
-- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
 #### Non-Major Courses (Fall 2019 – Spring 2020)
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
