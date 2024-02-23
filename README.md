@@ -26,7 +26,7 @@
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
-#### Non-Major Courses
+#### Non-Major Coursework
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
   - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
