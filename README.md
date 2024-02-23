@@ -10,22 +10,21 @@
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
   - [Project Report](STAT%20351%20–%20Nonparametric%20Statistical%20Methods/Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Project%20Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
 - [STAT 396](https://www.luc.edu/math/academics/courses/stat396) (Actuarial Seminar I)[^1]
-#### Fall 2018 – Spring 2019
-- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
-  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
-- [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
-  - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
-- [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
-  - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
-- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
-#### Fall 2016 – Spring 2018
+#### Fall 2016 – Spring 2019
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) (Discrete Mathematics & Number Theory)[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^2]
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
+- [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
+  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
+- [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
+  - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
+- [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
+  - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
+- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
 #### Non-Major Coursework
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
