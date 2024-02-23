@@ -1,15 +1,8 @@
 #### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
 #### Spring 2020
-- [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods) (Nonparametric Statistical Methods)
   - [Project Report](STAT%20351%20–%20Nonparametric%20Statistical%20Methods/Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Project%20Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
-- [UNIV 102](https://www.luc.edu/nsp/first-yearexperience/univ102loyolaseminar) (Financial Wellness)
-  - [Post-Assessment](UNIV%20102%20–%20Financial%20Wellness/Post-Assessment.pdf)
-- [UNIV 224](https://www.luc.edu/career/univ224) (Career & Life Planning)
-  - [Paper](UNIV%20224%20–%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf) (Occupational Project: Data Science)
 #### Fall 2019
-- [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
-  - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) (Statistical Design & Analysis of Experiments)
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
   - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
@@ -34,6 +27,14 @@
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) (Introduction to Probability & Statistics)
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
 - [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
+#### Non-Major Courses (Fall 2019 – Spring 2020)
+- [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
+- [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
+  - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
+- [UNIV 102](https://www.luc.edu/nsp/first-yearexperience/univ102loyolaseminar) (Financial Wellness)
+  - [Post-Assessment](UNIV%20102%20–%20Financial%20Wellness/Post-Assessment.pdf)
+- [UNIV 224](https://www.luc.edu/career/univ224) (Career & Life Planning)
+  - [Paper](UNIV%20224%20–%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf) (Occupational Project: Data Science)
 #### Spring 2015 & Spring 2016
 - [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
   - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
