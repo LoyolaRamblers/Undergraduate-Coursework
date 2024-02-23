@@ -27,7 +27,7 @@
 - [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
 #### Non-Major Coursework
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
-- [FNAR](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) 199 (Art & Visual Culture)
+- [FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) (Art & Visual Culture)
   - [Paper](FNAR%20199%20–%20Art%20%26%20Visual%20Culture/Critical%20Analysis%20Essay.pdf) (Critical Analysis)
 - [UNIV 102](https://www.luc.edu/nsp/first-yearexperience/univ102loyolaseminar) (Financial Wellness)
   - [Post-Assessment](UNIV%20102%20–%20Financial%20Wellness/Post-Assessment.pdf)
