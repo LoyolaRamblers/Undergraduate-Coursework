@@ -15,7 +15,8 @@
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) (Linear Algebra)
   - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) (Multivariable Calculus)[^2]
-- [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)[^1]
+- [MATH 264](https://www.luc.edu/math/academics/courses/math264) (Ordinary Differential Equations)
+  - [Quiz 3 Problem 6](MATH%20264%20–%20Ordinary%20Differential%20Equations/Quiz%203%20Problem%206.pdf)
 - [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) (Probability & Statistics)
   - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
 - [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) (Introduction to Mathematical Statistics)
@@ -24,7 +25,8 @@
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) (SAS Programming & Applied Statistics)
   - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
-- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)[^2]
+- [STAT 308](https://www.luc.edu/math/academics/courses/stat308) (Applied Regression Analysis)
+  - [Test 2 Topics](STAT%20308%20–%20Applied%20Regression%20Analysis/Test%202%20Topics.pdf)
 #### Non-Major Coursework
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) (Criminal Justice Statistics)
 - [FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) (Art & Visual Culture)
@@ -42,4 +44,4 @@
   - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
   - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done exclusively on paper.
-[^2]: No files exist for these courses because programming was done in class and none were saved.
+[^2]: No files exist for these courses because all programming was done in class and none were saved.
