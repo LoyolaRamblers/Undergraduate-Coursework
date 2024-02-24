@@ -1,5 +1,7 @@
 #### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
 #### Fall 2019 – Spring 2020
+- [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) – Criminal Justice Statistics
+  - 
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) – Statistical Design & Analysis of Experiments
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
   - [Presentation](STAT%20307%20–%20Statistical%20Design%20%26%20Analysis%20of%20Experiments/Presentation%20(Popping%20Popcorn).pdf)
@@ -29,7 +31,6 @@
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) – Introduction to Probability & Statistics
   - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
 #### Writing Samples from Non-Major Courses
-- [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) – Criminal Justice Statistics
 - [ENVS 224](https://www.luc.edu/core/scilitcoursesub-transfer.shtml) – Climate Change
   - [Paper](Writing%20Samples%20from%20Non-Major%20Courses/ENVS%20224%20–%20Climate%20Change/Paper%20(Climate%20Change%20Mitigation).pdf) (Climate Change Mitigation)
 - [EXCM 101](luc.edu/celts/programs/engagedlearning/approvedclasses/service-learning) – Introduction to Exercise Physiology
