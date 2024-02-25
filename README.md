@@ -1,18 +1,13 @@
 #### Loyola University Chicago [B.S. Statistics](https://www.luc.edu/math/bsstat.shtml) (Minors in [Mathematics](https://www.luc.edu/math/minormath.shtml) and [Actuarial Science](https://www.luc.edu/math/minoractuarial.shtml)), Class of 2020
 - [CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml) – Criminal Justice Statistics
-  - [Final Exam Part 2](CJC%20206%20–%20Criminal%20Justice%20Statistics/Final%20Exam%20Part%202.pdf)
 - [MATH 201](https://www.luc.edu/math/academics/courses/math201) – Discrete Mathematics & Number Theory[^1]
 - [MATH 212](https://www.luc.edu/math/academics/courses/math212) – Linear Algebra
-  - [Final Exam Topics](MATH%20212%20–%20Linear%20Algebra/Final%20Exam%20Topics.pdf)
 - [MATH 263](https://www.luc.edu/math/academics/courses/math263) – Multivariable Calculus[^2]
 - [MATH 264](https://www.luc.edu/math/academics/courses/math264) – Ordinary Differential Equations
   - [Quiz 3 Problem 6](MATH%20264%20–%20Ordinary%20Differential%20Equations/Quiz%203%20Problem%206.pdf)
 - [MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304) – Probability & Statistics
-  - [Piazza Engagement](MATH%20304%20–%20Probability%20%26%20Statistics)
 - [MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305) – Introduction to Mathematical Statistics
-  - [Piazza Engagement](MATH%20305%20–%20Introduction%20to%20Mathematical%20Statistics)
 - [STAT 203](https://www.luc.edu/math/academics/courses/stat203) – Introduction to Probability & Statistics
-  - [Piazza Engagement](STAT%20203%20–%20Introduction%20to%20Probability%20%26%20Statistics)
 - [STAT 303](https://www.luc.edu/math/academics/courses/stat303) – SAS Programming & Applied Statistics
   - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
 - [STAT 307](https://www.luc.edu/math/academics/courses/stat307) – Statistical Design & Analysis of Experiments
