@@ -47,13 +47,12 @@
   - [Paper](Writing%20Samples%20from%20Non-Major%20Courses/UCWR%20110%20–%20Writing%20Responsibly/Paper%20(The%20"Banking"%20Concept%20of%20Education).pdf) (Analysis of "The 'Banking' Concept of Education")
 - [UNIV 224](https://www.luc.edu/career/univ224) – Career & Life Planning
   - [Paper](UNIV%20224%20–%20Career%20%26%20Life%20Planning/Data%20Science%20Occupation%20Paper.pdf) (Occupational Project: Data Science)
-#### Spring 2015 & Spring 2016
-- [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
-  - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
-  - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → [MATH 162](https://www.luc.edu/math/academics/courses/math162)
-  - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → [ECON](https://catalog.luc.edu/course-descriptions/econ) 202
-  - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → [STAT 103](https://www.luc.edu/math/academics/courses/stat103)
-  - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
-  - [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
+#### [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
+- [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
+- [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → [MATH 162](https://www.luc.edu/math/academics/courses/math162)
+- [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → [ECON](https://catalog.luc.edu/course-descriptions/econ) 202
+- [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → [STAT 103](https://www.luc.edu/math/academics/courses/stat103)
+- [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
+- [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → [HIST](https://www.luc.edu/history/tiertwocourses) 211, HIST 212
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done exclusively on paper.
 [^2]: No files exist for these courses because all programming was done in class and none were saved.
