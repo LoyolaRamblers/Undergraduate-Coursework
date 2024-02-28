@@ -22,7 +22,7 @@
 - [STAT 321 Report](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf) (Blackjack)
 - [STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
 - [STAT 351 Report](Project%20Reports%20and%20Presentations/STAT%20351%20Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
-#### [Writing Samples](Writing%20Samples)
+#### Courses with [Writing Samples](Writing%20Samples)
 - [ENVS 224](https://www.luc.edu/core/scilitcoursesub-transfer.shtml) – Climate Change
 - [EXCM 101](luc.edu/celts/programs/engagedlearning/approvedclasses/service-learning) – Introduction to Exercise Physiology
 - [FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) – Art & Visual Culture
