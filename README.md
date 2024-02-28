@@ -19,9 +19,9 @@
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations)
 - [LITR 245 Presentation](Project%20Reports%20and%20Presentations/LITR%20245%20Presentation%20(Ying-ying's%20Story)/Presentation.pdf) (Ying-ying's Story)
 - [STAT 307 Presentation](Project%20Reports%20and%20Presentations/STAT%20307%20Presentation%20(Popping%20Popcorn).pdf) (Popping Popcorn)
-- [STAT 321 Project](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf) (Blackjack)
-- [STAT 338 Project](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
-- [STAT 351 Project](Project%20Reports%20and%20Presentations/STAT%20351%20Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
+- [STAT 321 Report](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf) (Blackjack)
+- [STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf) (Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction))
+- [STAT 351 Report](Project%20Reports%20and%20Presentations/STAT%20351%20Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Report.pdf) (Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic))
 #### [Writing Samples](Writing%20Samples)
 - [ENVS 224](https://www.luc.edu/core/scilitcoursesub-transfer.shtml) – Climate Change
 - [EXCM 101](luc.edu/celts/programs/engagedlearning/approvedclasses/service-learning) – Introduction to Exercise Physiology
