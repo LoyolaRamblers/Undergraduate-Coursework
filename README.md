@@ -1,21 +1,21 @@
 #### Loyola University Chicago [B.S. Statistics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs/#curriculumtext) (Minors in [Mathematics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/mathematics-minor/#curriculumtext) and [Actuarial Science](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/actuarial-science-minor/#curriculumtext)), Class of 2020
+- Actuarial Seminar I ([STAT 396](https://www.luc.edu/math/academics/courses/stat396))[^1]
+- Applied Regression Analysis ([STAT 308](https://www.luc.edu/math/academics/courses/stat308))
 - Criminal Justice Statistics ([CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml))
 - Discrete Mathematics & Number Theory ([MATH 201](https://www.luc.edu/math/academics/courses/math201))[^1]
-- Linear Algebra ([MATH 212](https://www.luc.edu/math/academics/courses/math212))
-- Multivariable Calculus ([MATH 263](https://www.luc.edu/math/academics/courses/math263))[^2]
-- Ordinary Differential Equations ([MATH 264](https://www.luc.edu/math/academics/courses/math264))
-  - [Quiz 3 Problem 6](MATH%20264%20–%20Ordinary%20Differential%20Equations/Quiz%203%20Problem%206.pdf)
-- Probability & Statistics ([MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304))
 - Introduction to Mathematical Statistics ([MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305))
 - Introduction to Probability & Statistics ([STAT 203](https://www.luc.edu/math/academics/courses/stat203))
+- Linear Algebra ([MATH 212](https://www.luc.edu/math/academics/courses/math212))
+- Modeling & Simulation ([STAT 321](https://www.luc.edu/math/academics/courses/stat321))
+- Multivariable Calculus ([MATH 263](https://www.luc.edu/math/academics/courses/math263))[^2]
+- Nonparametric Statistical Methods ([STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods))
+- Ordinary Differential Equations ([MATH 264](https://www.luc.edu/math/academics/courses/math264))
+  - [Quiz 3 Problem 6](MATH%20264%20–%20Ordinary%20Differential%20Equations/Quiz%203%20Problem%206.pdf)
+- Predictive Analytics ([STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics))
+- Probability & Statistics ([MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304))
 - SAS Programming & Applied Statistics ([STAT 303](https://www.luc.edu/math/academics/courses/stat303))
   - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
 - Statistical Design & Analysis of Experiments ([STAT 307](https://www.luc.edu/math/academics/courses/stat307))
-- Applied Regression Analysis ([STAT 308](https://www.luc.edu/math/academics/courses/stat308))
-- Modeling & Simulation ([STAT 321](https://www.luc.edu/math/academics/courses/stat321))
-- Predictive Analytics ([STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics))
-- Nonparametric Statistical Methods ([STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods))
-- Actuarial Seminar I ([STAT 396](https://www.luc.edu/math/academics/courses/stat396))[^1]
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations)
 - Blackjack ([STAT 321 Report](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf))
 - Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) ([STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf))
@@ -40,7 +40,7 @@
 - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → Calculus II ([MATH 162](https://www.luc.edu/math/academics/courses/math162))
 - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → Fundamentals of Statistics ([STAT 103](https://www.luc.edu/math/academics/courses/stat103))
 - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → Principles of Macroeconomics ([ECON](https://catalog.luc.edu/course-descriptions/econ) 202)
-- [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → United States to 1865 ([HIST](https://catalog.luc.edu/course-descriptions/hist) 211), United States Since 1865 (HIST 212)
+- [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → United States to 1865 ([HIST](https://catalog.luc.edu/course-descriptions/hist) 211), United States Since 1865 ([HIST](https://catalog.luc.edu/course-descriptions/hist) 212)
 - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done exclusively on paper.
 [^2]: No files exist for these courses because all programming was done in class and none were saved.
