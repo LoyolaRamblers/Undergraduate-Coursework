@@ -18,23 +18,23 @@
 - Actuarial Seminar I ([STAT 396](https://www.luc.edu/math/academics/courses/stat396))[^1]
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations)
 - Blackjack ([STAT 321 Report](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf))
-- Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction)) ([STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf))
-- Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)) ([STAT 351 Report](Project%20Reports%20and%20Presentations/STAT%20351%20Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Report.pdf))
+- Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) ([STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf))
+- Kaggle Competition: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) ([STAT 351 Report](Project%20Reports%20and%20Presentations/STAT%20351%20Project%20(Titanic%20–%20Machine%20Learning%20from%20Disaster)/Report.pdf))
 - Popping Popcorn ([STAT 307 Presentation](Project%20Reports%20and%20Presentations/STAT%20307%20Presentation%20(Popping%20Popcorn).pdf))
 - Ying-ying's Story ([LITR 245 Presentation](Project%20Reports%20and%20Presentations/LITR%20245%20Presentation%20(Ying-ying's%20Story)/Presentation.pdf))
 #### Courses with [Writing Samples](Writing%20Samples)
-- [ENVS 224](https://www.luc.edu/core/scilitcoursesub-transfer.shtml) – Climate Change
-- [EXCM 101](https://www.luc.edu/celts/programs/engagedlearning/approvedclasses/service-learning) – Introduction to Exercise Physiology
-- [FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse) – Art & Visual Culture
-- [LITR 245](https://www.luc.edu/core/litknowcoursesub-transfer.shtml) – Asian Masterpieces
-- [PHIL 130](https://www.luc.edu/philosophy/coursedescriptions/phil130philosophypersons) – Philosophy & Persons
-- [PHIL 182](https://www.luc.edu/philosophy/coursedescriptions/182.shtml) – Social & Political Philosophy
-- [PHIL 284](https://www.luc.edu/philosophy/coursedescriptions/184.shtml) – Health Care Ethics
-- [SOCL 101](https://www.luc.edu/sociology/undergraduatecoursedescriptions/#faq-467284Collapse) – Society in a Global Age
-- STAT 307 – Statistical Design & Analysis of Experiments
+- Art & Visual Culture ([FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse))
+- Asian Masterpieces ([LITR 245](https://www.luc.edu/core/litknowcoursesub-transfer.shtml))
+- Career & Life Planning ([UNIV 224](https://www.luc.edu/career/univ224))
+- Climate Change ([ENVS 224](https://www.luc.edu/core/scilitcoursesub-transfer.shtml))
+- Health Care Ethics ([PHIL 284](https://www.luc.edu/philosophy/coursedescriptions/184.shtml))
+- Introduction to Exercise Physiology ([EXCM 101](https://www.luc.edu/celts/programs/engagedlearning/approvedclasses/service-learning)
+- Philosophy & Persons ([PHIL 130](https://www.luc.edu/philosophy/coursedescriptions/phil130philosophypersons))
+- Social & Political Philosophy ([PHIL 182](https://www.luc.edu/philosophy/coursedescriptions/182.shtml))
+- Society in a Global Age ([SOCL 101](https://www.luc.edu/sociology/undergraduatecoursedescriptions/#faq-467284Collapse))
+- Statistical Design & Analysis of Experiments (STAT 307)
   - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
-- [UCWR 110](https://www.luc.edu/writingprogram/courses/universitycorewriting) – Writing Responsibly
-- [UNIV 224](https://www.luc.edu/career/univ224) – Career & Life Planning
+- Writing Responsibly ([UCWR 110](https://www.luc.edu/writingprogram/courses/universitycorewriting))
 #### [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
 - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → [MATH 161](https://www.luc.edu/math/academics/courses/math161)
 - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → [MATH 162](https://www.luc.edu/math/academics/courses/math162)
