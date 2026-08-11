@@ -40,7 +40,7 @@
 - [AP Calculus BC](https://apstudents.collegeboard.org/courses/ap-calculus-bc) (score: 5) → Calculus II ([MATH 162](https://www.luc.edu/math/academics/courses/math162))
 - [AP Statistics](https://apstudents.collegeboard.org/courses/ap-statistics) (score: 5) → Fundamentals of Statistics ([STAT 103](https://www.luc.edu/math/academics/courses/stat103))
 - [AP Macroeconomics](https://apstudents.collegeboard.org/courses/ap-macroeconomics) (score: 4) → Principles of Macroeconomics ([ECON](https://catalog.luc.edu/course-descriptions/econ) 202)
-- [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → US History to 1865: Themes & Issues ([HIST](https://catalog.luc.edu/course-descriptions/hist) 211), US History since 1865: Themes & Issues (HIST 212)
+- [AP United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history) (score: 4) → United States to 1865 ([HIST](https://catalog.luc.edu/course-descriptions/hist) 211), United States Since 1865 (HIST 212)
 - [AP United States Government & Politics](https://apstudents.collegeboard.org/courses/ap-united-states-government-and-politics) (score: 3)
 [^1]: No files exist for these courses because the nature of the subjects led to coursework being done exclusively on paper.
 [^2]: No files exist for these courses because all programming was done in class and none were saved.
