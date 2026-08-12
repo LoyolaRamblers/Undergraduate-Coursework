@@ -4,7 +4,7 @@
 - Applied Regression Analysis ([STAT](https://catalog.luc.edu/course-descriptions/stat) 308)
 - Criminal Justice Statistics ([CJC](https://www.luc.edu/criminaljustice/undergradcourses.shtml) 206)
 - Discrete Mathematics & Number Theory ([MATH](https://catalog.luc.edu/course-descriptions/stat) 201)[^1]
-- Introduction to Mathematical Statistics ([MATH/STAT](https://catalog.luc.edu/course-descriptions/math) 305)
+- Introduction to Mathematical Statistics ([MATH](https://catalog.luc.edu/course-descriptions/math) 305)
 - Introduction to Probability & Statistics ([STAT]([https://www.luc.edu/math/academics/courses/stat203](https://catalog.luc.edu/course-descriptions/stat)) 203)
 - Linear Algebra ([MATH](https://catalog.luc.edu/course-descriptions/math) 212)
 - Modeling & Simulation ([STAT](https://catalog.luc.edu/course-descriptions/stat) 321)
@@ -13,7 +13,7 @@
 - Ordinary Differential Equations ([MATH](https://catalog.luc.edu/course-descriptions/math) 264)
   - [Quiz 3 Problem 6](Coursework/Ordinary%20Differential%20Equations%20(MATH%20264)/Quiz%203%20Problem%206.pdf)
 - Predictive Analytics ([STAT](https://catalog.luc.edu/course-descriptions/stat) 338)
-- Probability & Statistics ([MATH/STAT](https://catalog.luc.edu/course-descriptions/math) 304)
+- Probability & Statistics ([MATH](https://catalog.luc.edu/course-descriptions/math) 304)
 - SAS Programming & Applied Statistics ([STAT](https://catalog.luc.edu/course-descriptions/stat) 303)
   - [Homework 5](Coursework/SAS%20Programming%20%26%20Applied%20Statistics%20(STAT%20303)/Homework%205%20Output.pdf)
 - Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 307)
