@@ -1,4 +1,4 @@
-#### Loyola University Chicago [B.S. Statistics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs/#curriculumtext) (Minors in [Mathematics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/mathematics-minor/#curriculumtext) and [Actuarial Science](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/actuarial-science-minor/#curriculumtext)), Class of 2020
+#### Loyola University Chicago [B.S. Statistics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs) (Minors in [Mathematics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/mathematics-minor) and [Actuarial Science](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/actuarial-science-minor)), Class of 2020
 - Actuarial Seminar I ([STAT 396](https://www.luc.edu/math/academics/courses/stat396))[^1]
 - Applied Regression Analysis ([STAT 308](https://www.luc.edu/math/academics/courses/stat308))
 - Criminal Justice Statistics ([CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml))
