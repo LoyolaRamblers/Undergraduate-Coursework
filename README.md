@@ -34,7 +34,7 @@
 - Social & Political Philosophy ([PHIL](https://catalog.luc.edu/course-descriptions/phil) 182)
 - Society in a Global Age ([SOCL](https://catalog.luc.edu/course-descriptions/socl) 101)
 - Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 307)
-  - [Paper](STAT%20307%20–%20Statistical%20Design%20&%20Analysis%20of%20Experiments/Paper%20(Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…").pdf) (Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …")
+  - Analysis of "… Quaternary Ammonium Salts with Nylon 66 Fibers …" ([Paper](Writing%20Samples/Analysis%20of%20"…%20Quaternary%20Ammonium%20Salts%20with%20Nylon%2066%20Fibers%20…"%20(STAT%20307%20Paper).pdf))
 - Writing Responsibly ([UCWR 110](https://www.luc.edu/writingprogram/courses/universitycorewriting))
 #### [Advanced Placement (AP) Transfer Credit](Advanced%20Placement%20(AP)%20Transfer%20Credit.pdf)
 - [AP Calculus AB](https://apstudents.collegeboard.org/courses/ap-calculus-ab) (score: 5) → Calculus I ([MATH 161](https://www.luc.edu/math/academics/courses/math161))
