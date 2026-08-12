@@ -1,21 +1,21 @@
 #### Loyola University Chicago [B.S. Statistics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs) (Minors in [Mathematics](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/mathematics-minor) and [Actuarial Science](https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/actuarial-science-minor)), Class of 2020
-- Actuarial Seminar I ([STAT 396](https://www.luc.edu/math/academics/courses/stat396))[^1]
-- Applied Regression Analysis ([STAT 308](https://www.luc.edu/math/academics/courses/stat308))
-- Criminal Justice Statistics ([CJC 206](https://www.luc.edu/criminaljustice/undergradcourses.shtml))
-- Discrete Mathematics & Number Theory ([MATH 201](https://www.luc.edu/math/academics/courses/math201))[^1]
-- Introduction to Mathematical Statistics ([MATH/STAT 305](https://www.luc.edu/math/academics/courses/math305))
-- Introduction to Probability & Statistics ([STAT 203](https://www.luc.edu/math/academics/courses/stat203))
-- Linear Algebra ([MATH 212](https://www.luc.edu/math/academics/courses/math212))
-- Modeling & Simulation ([STAT 321](https://www.luc.edu/math/academics/courses/stat321))
-- Multivariable Calculus ([MATH 263](https://www.luc.edu/math/academics/courses/math263))[^2]
-- Nonparametric Statistical Methods ([STAT 351](https://www.luc.edu/math/academics/courses/undergradstat/stat351nonparametricstatisticalmethods))
-- Ordinary Differential Equations ([MATH 264](https://www.luc.edu/math/academics/courses/math264))
+- Actuarial Seminar I ([STAT](https://catalog.luc.edu/course-descriptions/stat) 396)[^1]
+- Applied Regression Analysis ([STAT](https://catalog.luc.edu/course-descriptions/stat) 308)
+- Criminal Justice Statistics ([CJC](https://www.luc.edu/criminaljustice/undergradcourses.shtml) 206)
+- Discrete Mathematics & Number Theory ([MATH](https://catalog.luc.edu/course-descriptions/stat) 201)[^1]
+- Introduction to Mathematical Statistics ([MATH/STAT](https://catalog.luc.edu/course-descriptions/math) 305)
+- Introduction to Probability & Statistics ([STAT]([https://www.luc.edu/math/academics/courses/stat203](https://catalog.luc.edu/course-descriptions/stat)) 203)
+- Linear Algebra ([MATH](https://catalog.luc.edu/course-descriptions/math) 212)
+- Modeling & Simulation ([STAT](https://catalog.luc.edu/course-descriptions/stat) 321)
+- Multivariable Calculus ([MATH](https://catalog.luc.edu/course-descriptions/math) 263)[^2]
+- Nonparametric Statistical Methods ([STAT](https://catalog.luc.edu/course-descriptions/stat) 351)
+- Ordinary Differential Equations ([MATH](https://catalog.luc.edu/course-descriptions/math) 264)
   - [Quiz 3 Problem 6](MATH%20264%20–%20Ordinary%20Differential%20Equations/Quiz%203%20Problem%206.pdf)
-- Predictive Analytics ([STAT 338](https://www.luc.edu/math/academics/courses/undergradstat/stat338predictiveanalytics))
-- Probability & Statistics ([MATH/STAT 304](https://www.luc.edu/math/academics/courses/math304))
-- SAS Programming & Applied Statistics ([STAT 303](https://www.luc.edu/math/academics/courses/stat303))
+- Predictive Analytics ([STAT](https://catalog.luc.edu/course-descriptions/stat) 338)
+- Probability & Statistics ([MATH/STAT](https://catalog.luc.edu/course-descriptions/math) 304)
+- SAS Programming & Applied Statistics ([STAT](https://catalog.luc.edu/course-descriptions/stat) 303)
   - [Homework 5](STAT%20303%20–%20SAS%20Programming%20%26%20Applied%20Statistics/Homework%205%20Results.pdf)
-- Statistical Design & Analysis of Experiments ([STAT 307](https://www.luc.edu/math/academics/courses/stat307))
+- Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 307)
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations)
 - Blackjack ([STAT 321 Report](Project%20Reports%20and%20Presentations/STAT%20321%20Project%20(Blackjack)/Report.pdf))
 - Kaggle Competition: [ASHRAE – Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) ([STAT 338 Report](Project%20Reports%20and%20Presentations/STAT%20338%20Project%20(ASHRAE%20–%20Great%20Energy%20Predictor%20III)/Report.pdf))
