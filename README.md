@@ -23,7 +23,7 @@
 - Popping Popcorn ([STAT 307 Presentation](Project%20Reports%20and%20Presentations/Popping%20Popcorn%20(STAT%20307%20Presentation).pdf))
 - [Titanic – Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) Kaggle Competition ([STAT 351 Report](Project%20Reports%20and%20Presentations/Titanic%20–%20Machine%20Learning%20from%20Disaster%20(STAT%20351%20Project)/Report.pdf))
 - Ying-ying's Story ([LITR 245 Presentation](Project%20Reports%20and%20Presentations/Ying-ying's%20Story%20(LITR%20245%20Presentation)/Presentation.pdf))
-#### [Writing Samples](Writing%20Samples)
+#### Courses with [Writing Samples](Writing%20Samples)
 - Art & Visual Culture ([FNAR 199](https://www.luc.edu/finearts/academics/courses/fineartscoursecatalog/#faq-574090Collapse))
 - Asian Masterpieces ([LITR](https://catalog.luc.edu/course-descriptions/litr) 245)
 - Career & Life Planning ([UNIV 224](https://www.luc.edu/career/exploration/programsandclasses/careerlifeplanningseminaruniv224))
